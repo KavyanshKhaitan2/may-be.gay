@@ -1,0 +1,12 @@
+# You need to provide details about yourself that we can use to contact you.
+
+# Its for a mc server, pls accept thx :)
+[user]
+username = "KavyanshKhaitan2"
+# You have to have one of these.
+email = "privateinfosorry@example.com"
+discord = "Kavyansh#3659"
+
+[records]
+# Your site's records, i.e.
+DNS = ["galileo.aternos.org", "columbus.aternos.org"]
